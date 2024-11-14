@@ -3,6 +3,9 @@
 
 ---
 
+![Orlando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goro1408&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goro1408&layout=compact&theme=radical)
+
 🔐 **Cybersecurity Focus**  
 With a strong foundation in IT operations and a dedication to cybersecurity, I’m on a journey to become a top-tier penetration tester. I’m currently honing my skills in areas like threat detection, vulnerability management, and ethical hacking, working with real-world tools and frameworks to build a resilient skill set in cybersecurity.
 
@@ -25,17 +28,31 @@ My education at Holberton School and pursuit of these certifications are prepari
 ---
 
 📂 **Key Projects**  
-- **SOC and Honeynet Deployment on Azure**  
+- **[SOC and Honeynet Deployment on Azure](https://github.com/goro1408/SOC-Honeynet-Azure)**  
   *Building a Security Operations Center in Azure for threat monitoring and incident response.* This project includes setting up a honeynet for studying attack patterns and designing defense strategies.
-  
-- **Freelance Bug Bounty Work**  
-  *Active participant in bug bounty programs,* finding and reporting vulnerabilities. This hands-on approach sharpens my ethical hacking skills and helps me stay up-to-date with evolving threat landscapes.
-  
-- **Low-Level Programming in C**  
+
+  ![SOC and Honeynet Deployment Diagram](https://github.com/goro1408/SOC-Honeynet-Azure/blob/main/image_2024-11-13_230824208.png)
+
+- **[Low-Level Programming in C](https://github.com/goro1408/holbertonschool-low_level_programming)**  
   *Developing software with strict security standards.* These projects emphasize memory management, error handling, and adherence to coding best practices, foundational skills for secure software development.
 
-- **IT Troubleshooting Toolkit**  
+- **[CyberSecurity Portfolio](https://github.com/goro1408/CyberSecurity-Portfolio)**  
+  Showcasing various projects that demonstrate skills and knowledge in cybersecurity, including network scanning, password cracking, and port scanning. Here are some tools used:
+  - **Nmap** for network scanning
+  - **Hashcat** for password cracking
+  - **Wireshark** for packet analysis
+
+- **[IT Troubleshooting Toolkit](https://github.com/goro1408/IT-Troubleshooting-Toolkit)**  
   *A toolkit created for rapid diagnosis and resolution of common IT support issues.* It includes automation scripts and knowledge articles to streamline troubleshooting processes.
+
+### 📄 [Complete Portfolio](https://drive.google.com/drive/folders/1ue-jzvlOE4YZlVKjL6yVGL3gCZz8NZds?usp=sharing)
+Explore my full portfolio in Google Drive for additional documentation, detailed project insights, and other cybersecurity materials.
+
+---
+
+### Additional Projects
+- [Script Collection](https://github.com/goro1408/script-collection): A repository of helpful automation scripts.
+- [Network Security Tools](https://github.com/goro1408/network-security-tools): Custom tools for network security testing.
 
 ---
 

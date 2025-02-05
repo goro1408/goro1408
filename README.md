@@ -10,10 +10,13 @@
 With a strong foundation in IT operations and a dedication to cybersecurity, I’m on a journey to become a top-tier penetration tester. I’m currently honing my skills in areas like threat detection, vulnerability management, and ethical hacking, working with real-world tools and frameworks to build a resilient skill set in cybersecurity.
 
 ### 🚀 Certifications & Training
-- **CompTIA Security+ (In Progress)**
+- **CompTIA Security+**
 - **Google Cybersecurity Certificate**
 - **Cisco Introduction to Cyber Security**
 - **CompTIA A+**
+- **Google IT Support Professional Certificate**
+- **Cisco Ethical Hacker**
+- **TryHackME SOC Level 1 & 2**
   
 My education at Holberton School and pursuit of these certifications are preparing me to handle advanced cyber threats, secure systems, and protect critical data.
 
@@ -45,7 +48,7 @@ My education at Holberton School and pursuit of these certifications are prepari
 - **[IT Troubleshooting Toolkit](https://github.com/goro1408/IT-Troubleshooting-Toolkit)**  
   *A toolkit created for rapid diagnosis and resolution of common IT support issues.* It includes automation scripts and knowledge articles to streamline troubleshooting processes.
 
-### 📄 [Complete Portfolio](https://drive.google.com/drive/folders/1ue-jzvlOE4YZlVKjL6yVGL3gCZz8NZds?usp=sharing)
+### 📄 [Complete Portfolio]([https://drive.google.com/drive/folders/1ue-jzvlOE4YZlVKjL6yVGL3gCZz8NZds?usp=sharing](https://docs.google.com/document/d/e/2PACX-1vRgKNbbW07drPwEExqTniwvIDrC-cgnR3WEfVunvouKTdCCcVpaDNPdUU2pDj4XN5-KHPqGsan7HN6o/pub))
 Explore my full portfolio in Google Drive for additional documentation, detailed project insights, and other cybersecurity materials.
 
 ---

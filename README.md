@@ -48,7 +48,7 @@ My education at Holberton School and pursuit of these certifications are prepari
 - **[IT Troubleshooting Toolkit](https://github.com/goro1408/IT-Troubleshooting-Toolkit)**  
   *A toolkit created for rapid diagnosis and resolution of common IT support issues.* It includes automation scripts and knowledge articles to streamline troubleshooting processes.
 
-### 📄 [Complete Portfolio]([https://drive.google.com/drive/folders/1ue-jzvlOE4YZlVKjL6yVGL3gCZz8NZds?usp=sharing](https://docs.google.com/document/d/e/2PACX-1vRgKNbbW07drPwEExqTniwvIDrC-cgnR3WEfVunvouKTdCCcVpaDNPdUU2pDj4XN5-KHPqGsan7HN6o/pub))
+### 📄 [Complete Portfolio](https://docs.google.com/document/d/e/2PACX-1vRgKNbbW07drPwEExqTniwvIDrC-cgnR3WEfVunvouKTdCCcVpaDNPdUU2pDj4XN5-KHPqGsan7HN6o/pub))
 Explore my full portfolio in Google Drive for additional documentation, detailed project insights, and other cybersecurity materials.
 
 ---

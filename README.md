@@ -7,10 +7,10 @@
 With a strong foundation in IT operations and a dedication to cybersecurity, I’m on a journey to become a top-tier penetration tester. I’m currently honing my skills in areas like threat detection, vulnerability management, and ethical hacking, working with real-world tools and frameworks to build a resilient skill set in cybersecurity.
 
 ### 🚀 Certifications & Training
-- **CompTIA Security+**
+- **CompTIA Security+ (In Progress)**
 - **Google Cybersecurity Certificate**
 - **Cisco Introduction to Cyber Security**
-- **CompTIA A+**
+- **Cyber Hero Certificate**
 - **Google IT Support Professional Certificate**
 - **Cisco Ethical Hacker**
 - **TryHackME SOC Level 1 & 2**
@@ -21,7 +21,7 @@ My education at Holberton School and pursuit of these certifications are prepari
 
 💻 **Tech Stack & Skills**  
 - **Programming Languages:** C, Python, SQL, Bash
-- **Security Tools:** VirtualBox, Azure, SIEM systems
+- **Security Tools:** VirtualBox, Azure, SIEM systems, Hyper-V
 - **Platforms & Technologies:** Microsoft Office Suite, Google Workspace, Virtualized Environments (Azure, VirtualBox)
 - **Core Competencies:** Threat Analysis, IT Support, Incident Response, Vulnerability Scanning, Technical Troubleshooting
 

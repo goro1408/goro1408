@@ -1,10 +1,7 @@
 # 👋 Orlando Del Valle Sanchez  
-**Aspiring Cybersecurity Professional | IT Consultant | Holberton School Student in Puerto Rico**
+**Aspiring Cybersecurity Professional**
 
 ---
-
-![Orlando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=goro1408&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goro1408&layout=compact&theme=radical)
 
 🔐 **Cybersecurity Focus**  
 With a strong foundation in IT operations and a dedication to cybersecurity, I’m on a journey to become a top-tier penetration tester. I’m currently honing my skills in areas like threat detection, vulnerability management, and ethical hacking, working with real-world tools and frameworks to build a resilient skill set in cybersecurity.

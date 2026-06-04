@@ -9,11 +9,12 @@ With a strong foundation in IT operations and a dedication to cybersecurity, Iâ€
 ### ðŸš€ Certifications & Training
 - **CompTIA Security+ (In Progress)**
 - **Google Cybersecurity Certificate**
-- **Cisco Introduction to Cyber Security**
-- **Cyber Hero Certificate**
 - **Google IT Support Professional Certificate**
+- **Google AI Professional Certificate**
+- **Cyber Hero Certificate**
+- **Cisco Introduction to Cyber Security**
 - **Cisco Ethical Hacker**
-- **TryHackME SOC Level 1 & 2**
+- **TryHackMe Security Analyst Level 1 (SAL1)**
   
 My education at Holberton School and pursuit of these certifications are preparing me to handle advanced cyber threats, secure systems, and protect critical data.
 

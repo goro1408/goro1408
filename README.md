@@ -72,7 +72,7 @@ When I’m not working on security, you’ll find me gaming, exploring the lates
 🔗 **Connect with Me**  
 - **LinkedIn:** [Orlando Del Valle Sanchez](https://www.linkedin.com/in/ods1408/)
 - **GitHub:** [goro1408](https://github.com/goro1408)
-- **Email:** [goro.14082@gmail.com](mailto:goro.14082@gmail.com)
+- **Email:** [orlando_sanchez1224@hotmail.com](mailto:orlando_sanchez1224@hotmail.com)
 
 ---
 
